@@ -1209,45 +1209,6 @@
     }
   },
   {
-    "email": "raul.carmona@utel.edu.mx",
-    "firstName": "Raul",
-    "company": "Utel Universidad",
-    "jobtitle": "Director of Sales",
-    "country": "Mexico",
-    "segment": "VENTAS",
-    "block": 1,
-    "correos": {
-      "1": {
-        "subject": "La reunión de resultados + la pregunta que nadie contesta",
-        "body": "Hola Raul,\n\nHay una reunión que se repite en casi todas las instituciones educativas. Se cierra el periodo por debajo de la cuota, alguien pregunta qué pasó, y las respuestas disponibles son siempre las mismas tres: el mercado estuvo difícil, los leads vinieron de mala calidad, o el equipo necesita más gente.\n\nNinguna se puede comprobar con los datos que hay sobre la mesa, porque nadie mide cuánto tardó el primer contacto ni cuántos leads recibieron un segundo intento antes de darlos por perdidos.\n\nSomos Vixiees y trabajamos justo en ese tramo. Instalamos el proceso comercial dentro del sistema para que cada asesor de Utel Universidad reciba en una sola pantalla al lead, el canal y el guion, en el orden que definieron, sin tener que decidirlo. Ucademy, también en educación, pasó de 300 a casi 600 contactos trabajados por asesor en un año.\n\n¿Cuándo fue la última vez que el equipo comercial de Utel Universidad explicó una meta incumplida con datos del proceso, y no con una hipótesis? Tengo quince minutos el martes a las 10 am o el miércoles a las 4 pm si quieren verlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "2": {
-        "subject": "Leads flojos + equipo que no los trabajó",
-        "body": "Hola Raul,\n\nEs la discusión más vieja de cualquier equipo comercial: marketing muestra que trajo más leads que el periodo anterior, y ventas dice que esos leads llegaron tibios y dejaron de contestar.\n\nLos dos tienen razón dentro de su tramo. El problema es que nadie tiene datos del tramo intermedio, que es justo donde se decide todo: cuántos leads nunca recibieron un segundo intento de contacto. Mientras ese número no exista, la discusión se resuelve por jerarquía y vuelve idéntica el siguiente periodo.\n\nSomos Vixiees y hacemos que ese tramo deje de ser invisible. Cada contacto queda registrado con el tiempo que tardó y los intentos que hubo.\n\nDe los leads que llegaron el mes pasado a Utel Universidad, ¿qué porcentaje recibió tres o más intentos de contacto? Tengo quince minutos el jueves a las 9 am o el viernes a las 12 si quieren revisarlo juntos.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "3": {
-        "subject": "Más leads + la misma cuota de siempre",
-        "body": "Hola Raul,\n\nHay un punto en el que más leads dejan de traducirse en más matrícula. Entran más leads y el resultado del equipo se mueve mucho menos de lo esperado. La lectura habitual es que el mercado se puso más difícil. La incómoda es que el equipo ya estaba en su techo de capacidad antes de que entraran esos leads nuevos, así que cada uno entró a una lista que nadie alcanzó a trabajar completa.\n\nSomos Vixiees y atacamos esa palanca. Un asesor promedio hace unas 50 acciones de venta al día y sobre nuestro sistema supera las 150, con el mismo equipo, sin contratar a nadie más.\n\n¿Cuánto le costó realmente a Utel Universidad la última matrícula, contando los leads pagados que nadie llegó a llamar? Tengo quince minutos el lunes a las 11 am o el martes a las 5 pm si les interesa hacer ese cálculo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "4": {
-        "subject": "1.595 funcionarios daneses + tu mejor asesor",
-        "body": "Hola Raul,\n\nQuiero contarles un estudio que no tiene nada que ver con ventas y que explica mejor que cualquier reporte comercial por qué un asesor rinde más que el resto con exactamente los mismos leads.\n\nSegún el estudio de Guul, Pedersen y Petersen (Public Administration Review), con 1.595 funcionarios públicos daneses, cuando una persona enfrenta mucha carga y poco tiempo no reparte su esfuerzo por igual: lo concentra en los casos que percibe más motivados, y esa percepción pesó más que la capacidad real del caso.\n\nEl asesor estrella casi nunca lo es por su discurso, sino porque escoge: se queda con quien ya preguntó tres veces y suena decidido, y deja para el resto del equipo, o para nadie, al lead que no dio señales tan claras.\n\nSomos Vixiees y eliminamos esa elección. Mira tres minutos cómo se ve funcionando: déjame mostrarte cómo funciona Vixiees → https://app.arcade.software/share/xNhbGeFvBhsuvzjYvlTB\n\nSi mañana se repartiera la base al azar entre todo el equipo comercial de Utel Universidad, ¿cuánto cambiaría el ranking de resultados? Tengo quince minutos el miércoles a las 10 am o el jueves a las 3 pm si quieren conversarlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "5": {
-        "subject": "Las 10 pm + el lead que llamó a otra institución",
-        "body": "Hola Raul,\n\nHay un número que casi ningún equipo comercial mide y que pesa más que cualquier tablero de conversión: cuánto tarda el primer contacto real después de que un lead deja sus datos. Quien llama primero entra con ventaja, aunque la propuesta sea igual de buena que la de la competencia.\n\nLa segunda fuga es peor todavía. Quien no contestó la primera llamada no perdió el interés, pero en un equipo con más leads de los que alcanza a trabajar en el día ese contacto se va al fondo de la lista y muchas veces no recibe un segundo intento.\n\nSomos Vixiees y esta es la fuga más barata de tapar porque no cuesta pauta adicional: definimos a qué hora se contacta cada perfil y cuántas veces se reintenta, y el sistema lo ejecuta sin excepciones.\n\n¿Alguien en Utel Universidad podría decir hoy, sin estimar, cuánto tardó el primer contacto a los leads que entraron ayer? Tengo quince minutos el lunes a las 11 am o el martes a las 5 pm si quieren medirlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "6": {
-        "subject": "Leads ya pagados + nadie los vuelve a llamar",
-        "body": "Hola Raul,\n\nUtel Universidad tiene, como cualquier equipo comercial, listas de leads que ya costaron dinero y a los que nadie vuelve a contactar de forma individual: los que dijeron \"el próximo periodo\", los egresados, y las bases de convenios que nunca se activan.\n\nNo se pierden por decisión de nadie, se pierden porque no existe una tarea que obligue a volver sobre ellos. Somos Vixiees y con nosotros esa reactivación deja de depender de la memoria de un asesor. Así se ve funcionando: cómo funciona Vixiees → https://www.vixiees.com/how-it-works\n\nDe los leads del periodo pasado en Utel Universidad que no se matricularon, ¿cuántos tienen hoy una tarea asignada con fecha? Tengo quince minutos el miércoles a las 10 am o el jueves a las 3 pm si quieren verlo aplicado a su propia base.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "7": {
-        "subject": "Cierro el tema + la condición que quita el riesgo",
-        "body": "Hola Raul,\n\nEsta es mi última nota. Les hice varias preguntas sobre el proceso comercial de Utel Universidad y no espero que todas tengan respuesta con datos. Si alguna no la tuvo, ahí está el diagnóstico: el proceso comercial es lo único que nunca se definió, y por eso no se puede medir ni mejorar.\n\nSomos Vixiees y hacemos exactamente eso. No reemplazamos el CRM, nos conectamos encima. El CRM registra lo que pasó y nosotros determinamos lo que pasa hoy: qué lead toca, en qué canal, con qué guion y en qué minuto. Lo instala un ingeniero nuestro y no montan nada.\n\nTres datos para revisar con calma: un asesor promedio hace unas 50 acciones de venta al día y con nosotros supera las 150, Ucademy pasó de 300 a casi 600 contactos por comercial en un año, y hoy tenemos más de 600 licencias activas con una baja mensual bajo el 3%.\n\nY la condición que quita el riesgo: si no llegamos al número que acordemos, no se paga. Quince minutos el jueves a las 9 am o el viernes a las 11 am, o les paso un link para que agenden directo.\n\nSebastian Perez\nDel equipo de Vixiees\n\n-----"
-      }
-    }
-  },
-  {
     "email": "jruiz@uvaq.edu.mx",
     "firstName": "José",
     "company": "Universidad Vasco de Quiroga, A.C.",
