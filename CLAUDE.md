@@ -49,6 +49,8 @@ registro):
   había recibido el correo 1.
 - rgarcia@ucg.edu.mx (Raymundo Garcia) — cancelado el 22 sep 2026, ya
   había recibido el correo 1 (Bloque 1).
+- egallego@icesi.edu.co (Emily Gallego) — cancelado el 22 sep 2026, ya
+  había recibido el correo 1 (Bloque 1).
 
 Si Sebastian pide cancelar a alguien más, se remueve su entrada del archivo
 `merge_90_contactos.json` correspondiente (o del piloto) y se agrega aquí.

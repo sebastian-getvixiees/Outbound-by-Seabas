@@ -78,45 +78,6 @@
     }
   },
   {
-    "email": "egallego@icesi.edu.co",
-    "firstName": "Emily",
-    "company": "Universidad Icesi",
-    "jobtitle": "Head of Marketing, Entrepreneurship and Internationalization",
-    "country": "Colombia",
-    "segment": "MARKETING",
-    "block": 1,
-    "correos": {
-      "1": {
-        "subject": "La reunión de resultados + la pregunta que nadie contesta",
-        "body": "Hola Emily,\n\nHay una reunión que se repite en casi todas las instituciones educativas. Se cierra el periodo por debajo de la meta, alguien pregunta qué pasó, y las respuestas disponibles son siempre las mismas tres: el mercado estuvo difícil, los leads vinieron de mala calidad, o el equipo comercial necesita más gente.\n\nNinguna se puede comprobar con los datos que hay sobre la mesa. Se sabe cuántos leads generó marketing y cuántos matricularon al final, pero lo que pasó en medio (cuánto tardó el primer contacto, cuántos recibieron seguimiento real) no queda registrado en ningún lado, así que todo el trabajo de generación de demanda depende de un tramo que nadie mide.\n\nSomos Vixiees y trabajamos justo en ese tramo. Instalamos el proceso comercial dentro del sistema para que el asesor de Universidad Icesi reciba al lead, el canal y el guion, en el orden que la institución definió, sin poder saltarse el paso. Ucademy, también en educación, pasó de 300 a casi 600 contactos trabajados por asesor en un año.\n\nSi el trabajo de marketing terminara donde termina hoy el formulario, ¿cuánto de ese esfuerzo se estaría perdiendo después? Tengo quince minutos el martes a las 10 am o el miércoles a las 4 pm si quieren verlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "2": {
-        "subject": "Buenos leads + admisiones que dice lo contrario",
-        "body": "Hola Emily,\n\nEs la tensión más vieja entre marketing y el equipo comercial. Marketing muestra que el tráfico mejoró (mejor fuente, mejor costo, mejor segmentación), y admisiones dice que esos leads llegaron tibios y dejaron de contestar.\n\nLos dos tienen razón dentro de su tramo. Nadie mide cuántos de esos leads bien generados nunca recibieron un segundo intento de contacto, así que cada mejora en la campaña choca contra el mismo cuello de botella humano en la salida.\n\nSomos Vixiees y hacemos que ese tramo deje de ser invisible. Cada contacto queda registrado con el tiempo que tardó y los intentos que hubo, así que se puede medir dónde se pierde el valor que marketing generó en la entrada.\n\nDe los leads que llegaron el mes pasado a Universidad Icesi, ¿qué porcentaje recibió tres o más intentos de contacto? Tengo quince minutos el jueves a las 9 am o el viernes a las 12 si quieren revisarlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "3": {
-        "subject": "Más presupuesto de pauta + la misma matrícula",
-        "body": "Hola Emily,\n\nHay un punto en el que subir el presupuesto de captación deja de rendir. Entran más leads y la matrícula se mueve mucho menos de lo proyectado. La lectura habitual es que el mercado se puso más caro. La incómoda es que el equipo comercial ya estaba en su techo de capacidad antes de subir la inversión, así que cada lead nuevo entró a una lista que nadie alcanzó a trabajar completa.\n\nEl costo por lead baja y el costo por matrícula sube, y eso hace parecer que marketing va bien mientras el número final va mal.\n\nSomos Vixiees y atacamos la otra palanca. Un asesor promedio hace unas 50 acciones de venta al día y sobre nuestro sistema supera las 150, con el mismo equipo, sin contratar a nadie más.\n\n¿Cuánta de la inversión en pauta de Universidad Icesi se está perdiendo en leads que nadie llegó a llamar a tiempo? Tengo quince minutos el lunes a las 11 am o el martes a las 5 pm si les interesa verlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "4": {
-        "subject": "1.595 funcionarios daneses + el mismo sesgo en tu funnel",
-        "body": "Hola Emily,\n\nQuiero contarles un estudio de comportamiento que explica algo que ningún dashboard de conversión muestra: por qué un asesor rinde más que otro con exactamente los mismos leads que marketing generó.\n\nSegún el estudio de Guul, Pedersen y Petersen (Public Administration Review), con 1.595 funcionarios públicos daneses, cuando alguien enfrenta mucha carga y poco tiempo no reparte su esfuerzo por igual: lo concentra en los casos que percibe más motivados, y esa percepción pesó más que la capacidad real del caso.\n\nEs el mismo sesgo que cualquier buena campaña intenta evitar con segmentación, solo que aquí ocurre en la cabeza del asesor: se queda con quien ya escribió tres veces y deja para nadie al lead silencioso que la campaña capturó igual de bien.\n\nSomos Vixiees y eliminamos esa elección. Mira tres minutos cómo se ve funcionando: déjame mostrarte cómo funciona Vixiees → https://app.arcade.software/share/xNhbGeFvBhsuvzjYvlTB\n\nSi mañana se repartiera la base al azar entre el equipo comercial de Universidad Icesi, ¿cuánto cambiaría el ranking de resultados? Tengo quince minutos el miércoles a las 10 am o el jueves a las 3 pm si quieren conversarlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "5": {
-        "subject": "Las 10 pm + el lead que llenó tres formularios",
-        "body": "Hola Emily,\n\nHay una métrica de latencia que casi ninguna institución mide: cuánto tarda el primer contacto humano después de que el formulario se envía. Nadie lo llena en horario de oficina, y quien deja el dato de noche probablemente llenó el mismo formulario en otra institución esa misma tarde. Quien llama primero entra con ventaja, sin importar cuánto mejor sea la campaña que lo trajo.\n\nLa segunda fuga es igual de silenciosa: quien no contestó la primera llamada no perdió el interés, pero en un equipo con más leads de los que alcanza a trabajar en el día ese contacto se va al fondo de la lista.\n\nSomos Vixiees y esta fuga se tapa sin tocar la campaña: definimos a qué hora se contacta cada perfil y cuántas veces se reintenta, y el sistema lo ejecuta sin depender de que el asesor se acuerde.\n\n¿Alguien en Universidad Icesi podría decir hoy, sin estimar, el tiempo real de primer contacto de los leads que llegaron ayer? Tengo quince minutos el lunes a las 11 am o el martes a las 5 pm si quieren medirlo.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "6": {
-        "subject": "Leads ya pagados + nadie los vuelve a tocar",
-        "body": "Hola Emily,\n\nUniversidad Icesi acumula, como cualquier institución, bases de leads que ya costaron dinero de pauta y a los que nadie vuelve a contactar de forma individual: los que dijeron \"el próximo periodo\", los egresados que solo reciben invitaciones a eventos, y las bases de descargas o webinars que terminan en un archivo sin dueño.\n\nNo se pierden por decisión de nadie, se pierden porque no existe una tarea que obligue a volver sobre ellos. Somos Vixiees y con nosotros esa reactivación deja de depender de la memoria de un asesor. Así se ve funcionando: cómo funciona Vixiees → https://www.vixiees.com/how-it-works\n\nDe los leads del periodo pasado en Universidad Icesi que no matricularon, ¿cuántos tienen hoy una tarea asignada con fecha? Tengo quince minutos el miércoles a las 10 am o el jueves a las 3 pm si quieren verlo aplicado a su base.\n\nSebastian Perez\nDel equipo de Vixiees"
-      },
-      "7": {
-        "subject": "Cierro el tema + la condición que quita el riesgo",
-        "body": "Hola Emily,\n\nEsta es mi última nota. Les hice varias preguntas sobre lo que pasa después del formulario en Universidad Icesi, y no espero que todas tengan respuesta con datos hoy. Si alguna no la tuvo, ahí está el diagnóstico: la campaña puede estar perfectamente diseñada y aun así perder valor en un tramo comercial que nunca se estandarizó.\n\nSomos Vixiees y hacemos exactamente eso. No reemplazamos el CRM, nos conectamos encima. El CRM registra lo que pasó y nosotros determinamos lo que pasa hoy: qué lead toca, en qué canal, con qué guion y en qué minuto. Lo instala un ingeniero nuestro y no montan nada.\n\nTres datos para revisar con calma: un asesor promedio hace unas 50 acciones de venta al día y con nosotros supera las 150, Ucademy pasó de 300 a casi 600 contactos por comercial en un año, y hoy tenemos más de 600 licencias activas con una baja mensual bajo el 3%.\n\nY la condición que quita el riesgo: si no llegamos al número que acordemos, no se paga. Quince minutos el jueves a las 9 am o el viernes a las 11 am, o les paso un link para que agenden directo.\n\nSebastian Perez\nDel equipo de Vixiees\n\n-----"
-      }
-    }
-  },
-  {
     "email": "aura.oliveros@cojowa.edu.co",
     "firstName": "Aura",
     "company": "Colegio Jorge Washington Cartagena",
