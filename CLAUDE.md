@@ -51,6 +51,8 @@ registro):
   había recibido el correo 1 (Bloque 1).
 - egallego@icesi.edu.co (Emily Gallego) — cancelado el 22 sep 2026, ya
   había recibido el correo 1 (Bloque 1).
+- alejandra.cabrera@upn.edu.pe (Alejandra Cabrera) — cancelado el 25 sep
+  2026, ya había recibido el correo 1 (Bloque 3).
 
 Si Sebastian pide cancelar a alguien más, se remueve su entrada del archivo
 `merge_90_contactos.json` correspondiente (o del piloto) y se agrega aquí.
