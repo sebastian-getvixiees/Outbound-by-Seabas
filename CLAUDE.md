@@ -57,6 +57,8 @@ registro):
   había recibido el correo 1 (Bloque 2).
 - priscilla.betanzo@uss.cl (Priscilla Betanzo) — cancelado el 26 sep
   2026, ya había recibido los correos 1 y 2 (Bloque 2).
+- svetlana.pavlova@ebac.mx (Svetlana Pavlova) — cancelado el 28 sep
+  2026, ya había recibido los correos 1, 2 y 3 (Bloque 1).
 
 Si Sebastian pide cancelar a alguien más, se remueve su entrada del archivo
 `merge_90_contactos.json` correspondiente (o del piloto) y se agrega aquí.
