@@ -61,6 +61,9 @@ registro):
   2026, ya había recibido los correos 1, 2 y 3 (Bloque 1).
 - smoran@esan.pe (Sara Moran) — cancelado el 28 sep 2026, ya había
   recibido los correos 1 y 2 (Bloque 3).
+- mariana.cortes@eton.edu.mx (Mariana Cortés) — cancelado el 29 sep
+  2026, ya había recibido el correo 1 (block 4). Se eliminaron los 6
+  triggers programados para sus correos 2-7.
 
 Si Sebastian pide cancelar a alguien más, se remueve su entrada del archivo
 `merge_90_contactos.json` correspondiente (o del piloto) y se agrega aquí.
@@ -76,5 +79,5 @@ Cada uno se agrega también a `merge_90_contactos.json` (con su propio
   ETON SCHOOL MEXICO - OFICIAL) — agregada el 29 sep 2026. Segmento
   ADMISIONES (block 4). Contacto creado en HubSpot (id 879400444126) con
   las 10 propiedades estándar de la campaña. Correo 1/7 enviado el 29 sep
-  2026. Correos 2-7 programados vía triggers "Vixiees individual — Mariana
-  Cortes — Correo N/7" (Oct 2, 5, 6, 12, 13, 14 de 2026, 16:00 UTC).
+  2026. Secuencia cancelada ese mismo día (ver "Cancelaciones vigentes")
+  antes de que salieran los correos 2-7.
