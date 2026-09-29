@@ -64,3 +64,17 @@ registro):
 
 Si Sebastian pide cancelar a alguien más, se remueve su entrada del archivo
 `merge_90_contactos.json` correspondiente (o del piloto) y se agrega aquí.
+
+## Contactos individuales agregados fuera de las listas originales
+
+Contactos que Sebastian aprobó explícitamente agregar a la campaña,
+fuera de las listas ya extraídas (`remaining_90.json` / listado piloto).
+Cada uno se agrega también a `merge_90_contactos.json` (con su propio
+`block`) para que los triggers programados lean su secuencia:
+
+- mariana.cortes@eton.edu.mx (Mariana Cortés, Admissions Coordinator,
+  ETON SCHOOL MEXICO - OFICIAL) — agregada el 29 sep 2026. Segmento
+  ADMISIONES (block 4). Contacto creado en HubSpot (id 879400444126) con
+  las 10 propiedades estándar de la campaña. Correo 1/7 enviado el 29 sep
+  2026. Correos 2-7 programados vía triggers "Vixiees individual — Mariana
+  Cortes — Correo N/7" (Oct 2, 5, 6, 12, 13, 14 de 2026, 16:00 UTC).
