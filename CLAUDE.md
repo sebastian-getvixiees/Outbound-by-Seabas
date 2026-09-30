@@ -83,3 +83,10 @@ Cada uno se agrega también a `merge_90_contactos.json` (con su propio
   las 10 propiedades estándar de la campaña. Correo 1/7 enviado el 29 sep
   2026. Secuencia cancelada ese mismo día (ver "Cancelaciones vigentes")
   antes de que salieran los correos 2-7.
+- secretariaacademica@ut.edu.co (Nayer Castañeda, Secretaria Academica,
+  Universidad del Tolima) — agregada el 30 sep 2026. Segmento ADMIN
+  (block 5). Contacto ya existía en HubSpot (id 880060829905, creado el
+  29 sep 2026); se completaron hubspot_owner_id y sdr_calificador con
+  Sebastián Perez Bohorquez. Correo 1/7 enviado el 30 sep 2026. Correos
+  2-7 programados vía triggers "Vixiees individual — Nayer Castañeda —
+  Correo N/7" (Oct 5, 6, 7, 12, 13, 14 de 2026, 16:00 UTC).
