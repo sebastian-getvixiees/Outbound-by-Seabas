@@ -64,6 +64,8 @@ registro):
 - mariana.cortes@eton.edu.mx (Mariana Cortés) — cancelado el 29 sep
   2026, ya había recibido el correo 1 (block 4). Se eliminaron los 6
   triggers programados para sus correos 2-7.
+- akessler@colegioandino.edu.co (Alejandra Kessler) — cancelado el 30
+  sep 2026, ya había recibido los correos 1, 2, 3 y 4 (Bloque 1).
 
 Si Sebastian pide cancelar a alguien más, se remueve su entrada del archivo
 `merge_90_contactos.json` correspondiente (o del piloto) y se agrega aquí.
